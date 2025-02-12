@@ -128,7 +128,7 @@ int main() {
      
     
      
-printf("RESULTADO: \n");                              // aqui sera imprimido o resultado do jogo ( o maior ponto em determinado ponto vence, rebendo numero 1)
+printf("RESULTADO: \n");                              // aqui sera imprimido o resultado do jogo (valor 1 vitoria e valor 0 derrota.)
 
    printf(" População: %d \n", populacao > populacao2);
    printf("Área: %d \n", area > area2);
